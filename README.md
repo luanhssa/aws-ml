@@ -16,21 +16,21 @@ This project uploads data to AWS S3 and then uses this data to create a AWS Mach
     |    └── com
     |        └── learning
     |            └── aws
-    |                ├── [MainApp.java](../blob/master/src/com/learning/aws/MainApp.java)
+    |                ├── MainApp.java
     |                ├── ml
-    |                |    ├── [BuildModel.java](../blob/master/src/com/learning/aws/ml/BuildModel.java)
-    |                |    ├── [Identifiers.java](../blob/master/src/com/learning/aws/ml/Identifiers.java)
-    |                |    ├── [ML.java](../blob/master/src/com/learning/aws/ml/ML.java)
-    |                |    └── [UseModel.java](../blob/master/src/com/learning/aws/ml/UseModel.java)
+    |                |    ├── BuildModel.java
+    |                |    ├── Identifiers.java
+    |                |    ├── ML.java
+    |                |    └── UseModel.java
     |                ├── s3
-    |                |    └── [S3.java](../blob/master/src/com/learning/aws/s3/S3.java)
+    |                |    └── S3.java
     |                └── util
-    |                    ├── [AWSUtil.java](../blob/master/src/com/learning/aws/util/AWSUtil.java)
-    |                    ├── [CSVUtil.java](../blob/master/src/com/learning/aws/util/CSVUtil.java)
-    |                    └── [Util.java](../blob/master/src/com/learning/aws/util/Util.java)
+    |                    ├── AWSUtil.java
+    |                    ├── CSVUtil.java
+    |                    └── Util.java
     ├── data
-    |    ├── [data.csv](../blob/master/data/data.csv)
-    |    └── [data-schema.json(../blob/master/data/data-schema.json)
-    └── [pom.xml](../blob/master/pom.xml)
+    |    ├── data.csv
+    |    └── data-schema.json
+    └── pom.xml
 
  
